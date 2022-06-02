@@ -1,0 +1,23 @@
+.backg-body{
+    background-color: lightblue;
+}
+.Head-text{
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Monotype Corsiva', cursive;
+    font-size: 14;
+}
+.p-text{
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Monotype Corsiva', cursive;
+    font-size: 14;
+    font-weight: bold;
+}
+.img-style{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 50%; 
+    width: 50%;
+}
+
